@@ -1,0 +1,367 @@
+[
+{
+"id": "i1",
+"pack": "impulso",
+"text": "Un paso ahora vale más que un plan de guerra en el pergamino."
+},
+{
+"id": "i2",
+"pack": "impulso",
+"text": "Respira. Luego avanza. No hace falta ser héroe de canción."
+},
+{
+"id": "i3",
+"pack": "impulso",
+"text": "Hoy basta con no rendir la plaza. Eso ya es oficio."
+},
+{
+"id": "i4",
+"pack": "impulso",
+"text": "Si aún estás en pie, todavía puedes corregir el tajo."
+},
+{
+"id": "i5",
+"pack": "impulso",
+"text": "Empieza por lo pequeño. El filo se saca con uso, no con discursos."
+},
+{
+"id": "i6",
+"pack": "impulso",
+"text": "Hazlo ahora, aunque salga torpe. Ya afilamos después."
+},
+{
+"id": "i7",
+"pack": "impulso",
+"text": "No hace falta sentirte listo. Basta con salir del campamento."
+},
+{
+"id": "i8",
+"pack": "impulso",
+"text": "La fortuna suele encontrar a quien ya cabalga."
+},
+{
+"id": "i9",
+"pack": "impulso",
+"text": "Un tramo corto. Luego otro. Así se cruza el reino."
+},
+{
+"id": "i10",
+"pack": "impulso",
+"text": "Te cubro la retaguardia. Tú pones el primer paso."
+},
+{
+"id": "i11",
+"pack": "impulso",
+"text": "El alba no espera a los indecisos. Muévete con calma, pero muévete."
+},
+{
+"id": "i12",
+"pack": "impulso",
+"text": "Si el puente está delante, no lo mires: crúzalo."
+},
+{
+"id": "i13",
+"pack": "impulso",
+"text": "Hoy el contrato es sencillo: una cosa hecha, no diez soñadas."
+},
+{
+"id": "i14",
+"pack": "impulso",
+"text": "El cuerno ya sonó. No hace falta que suene otra vez."
+},
+{
+"id": "d1",
+"pack": "disciplina",
+"text": "Repite con calma. El oficio se gana, no se improvisa en la tienda."
+},
+{
+"id": "d2",
+"pack": "disciplina",
+"text": "Una hora honesta vence a tres de teatro en la corte."
+},
+{
+"id": "d3",
+"pack": "disciplina",
+"text": "Ordena un poco el campamento. El caos también cansa la mano."
+},
+{
+"id": "d4",
+"pack": "disciplina",
+"text": "Cierra una cosa. Una sola. Luego la siguiente."
+},
+{
+"id": "d5",
+"pack": "disciplina",
+"text": "Afila lo que ya sabes antes de coleccionar armas nuevas."
+},
+{
+"id": "d6",
+"pack": "disciplina",
+"text": "Mira el golpe de delante, no todo el horizonte."
+},
+{
+"id": "d7",
+"pack": "disciplina",
+"text": "La constancia es más rara que el talento. Hoy basta con volver al patio."
+},
+{
+"id": "d8",
+"pack": "disciplina",
+"text": "El juramento se honra también en los días de lluvia."
+},
+{
+"id": "d9",
+"pack": "disciplina",
+"text": "Si lo dejas para el alba, déjalo escrito. No lo pierdas en el fuego."
+},
+{
+"id": "d10",
+"pack": "disciplina",
+"text": "Pausa breve, luego otra pasada. Así se templea el acero."
+},
+{
+"id": "d11",
+"pack": "disciplina",
+"text": "El que pulió su cota ayer, hoy no teme la flecha."
+},
+{
+"id": "d12",
+"pack": "disciplina",
+"text": "Guarda el arma limpia. El descuido es un enemigo silencioso."
+},
+{
+"id": "d13",
+"pack": "disciplina",
+"text": "No hace falta ganar el reino esta tarde. Basta con no abandonar el puesto."
+},
+{
+"id": "o1",
+"pack": "orgullo",
+"text": "Has salido de peores asedios. Actúa como quien lo recuerda."
+},
+{
+"id": "o2",
+"pack": "orgullo",
+"text": "Hoy también cuentas. No te borres de la sala del consejo."
+},
+{
+"id": "o3",
+"pack": "orgullo",
+"text": "Tu nombre se escribe con lo que terminas, no con lo que juras en la taberna."
+},
+{
+"id": "o4",
+"pack": "orgullo",
+"text": "Camina derecho. Aunque te tiemble un poco el pulso bajo la cota."
+},
+{
+"id": "o5",
+"pack": "orgullo",
+"text": "Eres más constante de lo que te permites notar."
+},
+{
+"id": "o6",
+"pack": "orgullo",
+"text": "Está bien ocupar el centro del puente de vez en cuando."
+},
+{
+"id": "o7",
+"pack": "orgullo",
+"text": "Que te vean trabajar. El silencio también es una armadura."
+},
+{
+"id": "o8",
+"pack": "orgullo",
+"text": "No hace falta pedir permiso para lo que ya ganaste en el campo."
+},
+{
+"id": "o9",
+"pack": "orgullo",
+"text": "Llevas más batallas a cuestas de las que te concedes."
+},
+{
+"id": "o10",
+"pack": "orgullo",
+"text": "No eres escudero en tu propia vida. Toma el estandarte."
+},
+{
+"id": "r1",
+"pack": "descanso",
+"text": "Agua. Hombros abajo. El cuerpo también es un arma."
+},
+{
+"id": "r2",
+"pack": "descanso",
+"text": "Descansa sin culpa. Mañana volvemos al filo."
+},
+{
+"id": "r3",
+"pack": "descanso",
+"text": "Dormir no es rendirse. Es recargar la vaina."
+},
+{
+"id": "r4",
+"pack": "descanso",
+"text": "Cierra los ojos un minuto. El reino no se cae."
+},
+{
+"id": "r5",
+"pack": "descanso",
+"text": "Si el pulso va disparado, no es valentía: es desgaste de marcha."
+},
+{
+"id": "r6",
+"pack": "descanso",
+"text": "Come algo. Una capitana muerta de hambre no cubre el puesto."
+},
+{
+"id": "r7",
+"pack": "descanso",
+"text": "Estira el cuello. El orgullo no arregla una vértebra."
+},
+{
+"id": "r8",
+"pack": "descanso",
+"text": "Hasta el caballo de guerra se abreva. Tú no eres menos."
+},
+{
+"id": "r9",
+"pack": "descanso",
+"text": "Retírate un rato al fuego. El próximo asalto espera a un cuerpo entero."
+},
+{
+"id": "p1",
+"pack": "pulla",
+"text": "Bonito plan de campaña. ¿Lo sacamos del yelmo un rato?"
+},
+{
+"id": "p2",
+"pack": "pulla",
+"text": "El techo de la tienda es pésimo consejero. Mejor el trabajo."
+},
+{
+"id": "p3",
+"pack": "pulla",
+"text": "Si vas a quejarte, que sea caminando hacia la puerta."
+},
+{
+"id": "p4",
+"pack": "pulla",
+"text": "El talento sin oficio es un adorno de corte. Y los adornos no pagan."
+},
+{
+"id": "p5",
+"pack": "pulla",
+"text": "Deja de ensayar el discurso. Tira el golpe."
+},
+{
+"id": "p6",
+"pack": "pulla",
+"text": "Mañana es un cajón muy grande. No lo llenes de promesas."
+},
+{
+"id": "p7",
+"pack": "pulla",
+"text": "Si esperas a sentirte listo, se te acaba la vela."
+},
+{
+"id": "p8",
+"pack": "pulla",
+"text": "Basta de calentar en el patio. Con calma, pero entra."
+},
+{
+"id": "p9",
+"pack": "pulla",
+"text": "Ese pergamino no se va a firmar solo, capitán."
+},
+{
+"id": "v1",
+"pack": "victoria",
+"text": "Hoy no pedimos permiso: plantamos el estandarte y avanzamos."
+},
+{
+"id": "v2",
+"pack": "victoria",
+"text": "La plaza se rinde a quien llega, no a quien la sueña."
+},
+{
+"id": "v3",
+"pack": "victoria",
+"text": "Cada tarea cerrada es una almena ganada. Suma."
+},
+{
+"id": "v4",
+"pack": "victoria",
+"text": "Conquista lo de hoy. El reino se junta con villas, no con mapas."
+},
+{
+"id": "v5",
+"pack": "victoria",
+"text": "El botín de verdad es terminar. Lo demás es ruido de taberna."
+},
+{
+"id": "v6",
+"pack": "victoria",
+"text": "No esperes la coronación. Toma el puente y ya hablarán."
+},
+{
+"id": "v7",
+"pack": "victoria",
+"text": "Si caes, que sea hacia adelante. El campo respeta eso."
+},
+{
+"id": "v8",
+"pack": "victoria",
+"text": "Una victoria pequeña al anochecer vale más que un imperio en la cabeza."
+},
+{
+"id": "v9",
+"pack": "victoria",
+"text": "Levanta el visor. Mira lo que ya tomaste. Ahora lo siguiente."
+},
+{
+"id": "v10",
+"pack": "victoria",
+"text": "El que duda en la puerta pierde el asalto. Entra."
+},
+{
+"id": "v11",
+"pack": "victoria",
+"text": "Hoy cobramos el contrato: no en oro, en terreno hecho."
+},
+{
+"id": "v12",
+"pack": "victoria",
+"text": "Guarda este triunfo. Mañana sirve de munición."
+},
+{
+"id": "v13",
+"pack": "victoria",
+"text": "No hace falta vencer al dragón. Basta con no cederle el valle."
+},
+{
+"id": "v14",
+"pack": "victoria",
+"text": "Que el enemigo —el atraso, el miedo— sepa tu nombre esta tarde."
+},
+{
+"id": "v15",
+"pack": "victoria",
+"text": "Plantaste bandera antes. Puedes volver a hacerlo."
+},
+{
+"id": "v16",
+"pack": "victoria",
+"text": "La conquista empieza en la mesa ordenada. Luego el mundo."
+},
+{
+"id": "v17",
+"pack": "victoria",
+"text": "No pidas un milagro al cielo. Pídele una hora honesta a tus manos."
+},
+{
+"id": "v18",
+"pack": "victoria",
+"text": "El trono de hoy es terminar lo que juraste ayer."
+}
+]

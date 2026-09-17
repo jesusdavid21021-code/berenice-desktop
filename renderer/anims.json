@@ -1,0 +1,34 @@
+{
+  "ids": [
+    "idle_ready",
+    "idle_scratch",
+    "idle_clean",
+    "idle_look",
+    "idle_smile",
+    "idle_think",
+    "idle_wave",
+    "idle_blink",
+    "special_stretch",
+    "talk_speak"
+  ],
+  "once": [
+    "idle_blink",
+    "idle_clean",
+    "idle_scratch",
+    "idle_wave",
+    "special_stretch"
+  ],
+  "idleLoop": [
+    "idle_ready",
+    "idle_look",
+    "idle_smile",
+    "idle_think"
+  ],
+  "fidget": [
+    "idle_scratch",
+    "idle_clean",
+    "idle_wave",
+    "idle_blink",
+    "special_stretch"
+  ]
+}

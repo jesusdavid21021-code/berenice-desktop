@@ -1,0 +1,17 @@
+BERENICE — mascota de escritorio
+================================
+
+Cómo usarla
+1. Extrae esta carpeta donde quieras.
+2. Abre Berenice.exe
+3. Berenice aparece encima de tu escritorio y se mueve sola.
+
+Controles
+- Clic sobre ella: habla.
+- Arrastrar: la mueves a mano.
+- Icono junto al reloj (bandeja): Hablar, Tamaño, Salir.
+
+Windows a veces avisa porque el archivo no está firmado.
+Elige “Más información” → “Ejecutar de todos modos”.
+
+Para quitarla: clic derecho en el icono de la bandeja → Salir.

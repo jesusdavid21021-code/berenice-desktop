@@ -1,0 +1,18 @@
+{
+  "name": "berenice",
+  "productName": "Berenice",
+  "version": "1.0.0",
+  "description": "Mascota de escritorio Berenice",
+  "main": "main.js",
+  "author": "Berenice",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "pack:win": "electron-packager . Berenice --platform=win32 --arch=x64 --out dist-win --overwrite --asar --icon icon.ico --prune --ignore \"node_modules\" --app-copyright \"Berenice\""
+  },
+  "devDependencies": {
+    "@electron/packager": "^20.3.0",
+    "electron": "^33.4.11"
+  }
+}
